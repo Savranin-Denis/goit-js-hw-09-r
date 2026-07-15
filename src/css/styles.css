@@ -40,11 +40,6 @@
   cursor: url('../img/cursor.svg'), auto;
 }
 
-.sl-wrapper .sl-image img {
-  width: 1112px;
-  height: auto;
-}
-
 .sl-caption {
   text-align: center;
 }
